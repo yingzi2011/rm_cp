@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:columnCount="1"
+    android:orientation="vertical" >
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chat Now"
+        android:id="@+id/chat_button"
+ />
+</RelativeLayout><!-- From: file:/C:/Users/anottingham/AndroidstudioProjects/Quiosco1/app/src/main/res/layout/main_activity.xml -->

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res" >
+            <file
+                name="archiving_off"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\archiving_off.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_on"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\archiving_on.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="audio_only"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\audio_only.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\avatar.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\bg.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="button_background"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\button_background.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camera"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\camera.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="chat_icon"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\chat_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="contact_icon"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\contact_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="map_icon"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\map_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\mute_pub.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\mute_sub.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="no_video"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\no_video.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="speaker_active"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\speaker_active.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\unmute_pub.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-hdpi\unmute_sub.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_off"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\archiving_off.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_on"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\archiving_on.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="audio_only"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\audio_only.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\avatar.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button_background"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\button_background.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="camera"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\camera.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\logo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\mute_pub.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\mute_sub.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="no_video"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\no_video.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="publisher"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\publisher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="speaker_active"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\speaker_active.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\unmute_pub.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-mdpi\unmute_sub.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_off"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\archiving_off.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_on"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\archiving_on.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="audio_only"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\audio_only.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\avatar.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="button_background"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\button_background.xml"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="camera"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\camera.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\mute_pub.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\mute_sub.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="no_video"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\no_video.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="speaker_active"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\speaker_active.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\unmute_pub.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xhdpi\unmute_sub.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_off"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\archiving_off.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="archiving_on"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\archiving_on.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="audio_only"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\audio_only.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\avatar.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="button_background"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\button_background.xml"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="camera"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\camera.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\mute_pub.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="mute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\mute_sub.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="no_video"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\no_video.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="speaker_active"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\speaker_active.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_pub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\unmute_pub.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="unmute_sub"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\drawable-xxhdpi\unmute_sub.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_contact"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\activity_contact.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_map"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\activity_map.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_contact"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\fragment_contact.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_map"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\fragment_map.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_activity"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\main_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_layout"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\main_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="room"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout\room.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="layout_fragment_pub_control"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-land\layout_fragment_pub_control.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="layout_fragment_pub_status"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-land\layout_fragment_pub_status.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="layout_fragment_sub_control"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-land\layout_fragment_sub_control.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="layout_ui_activity"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-land\layout_ui_activity.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="layout_fragment_pub_control"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-port\layout_fragment_pub_control.xml"
+                qualifiers="port"
+                type="layout" />
+            <file
+                name="layout_fragment_pub_status"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-port\layout_fragment_pub_status.xml"
+                qualifiers="port"
+                type="layout" />
+            <file
+                name="layout_fragment_sub_control"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-port\layout_fragment_sub_control.xml"
+                qualifiers="port"
+                type="layout" />
+            <file
+                name="layout_ui_activity"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\layout-port\layout_ui_activity.xml"
+                qualifiers="port"
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\menu\activity_main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="contact"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\menu\contact.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="map"
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\menu\map.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="grey" >#363636
+                </color>
+                <color name="blue" >#cc33b5e5
+                </color>
+                <color name="white" >#ffffff
+                </color>
+                <color name="trans_white" >#20ffffff
+                </color>
+                <color name="trans" >#00000000
+                </color>
+                <color name="trans_dark_grey" >#80282828
+                </color>
+                <color name="dark_grey" >#282828
+                </color>
+            </file>
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="send" >Send
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="chat" >Chat
+                </string>
+                <string name="audioOnly" >Audio only
+                </string>
+                <string name="location" >South Texas
+                </string>
+                <string name="videoChat" >Video Chat
+                </string>
+                <string name="header" >Workforce Solutions
+                </string>
+                <string name="endCall1" >End call
+                </string>
+                <string name="endCall2" >End
+                </string>
+                <string name="archivingOn" >Archiving on
+                </string>
+                <string name="swapStr" >Swap camera
+                </string>
+                <string name="app_name" >Chat
+                </string>
+                <string name="notification" >Ongoing call
+                </string>
+                <string name="archivingOff" >Archiving off
+                </string>
+                <string name="title_activity_contact" >ContactActivity
+                </string>
+                <string name="map" >Map
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_map" >MapActivity
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+            </file>
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\anottingham\AndroidstudioProjects\Quiosco1\app\src\debug\res" />
+    </dataSet>
+
+</merger>
